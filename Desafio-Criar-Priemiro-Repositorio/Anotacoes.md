@@ -1,10 +1,10 @@
 # Desafio Primeiro repositório Github
 
-##Descrição
+## Descrição
 
 Para esse projeto iremos criar um repositorio, adicionar arquivo README.md alimentar esse arquivo, realizar o clone do repositorio para a pasta local e realizar um commit e um push para que possamos entender os passos basicos da utilização do Git e Github.
 
-###Passos a seguir:
+### Passos a seguir:
 
 * Acessar a página do [Github](https://github.com/) 
 * Realizar o __Cadastro__, se for o caso e ja tiver conta criada só precisa realizar o __Sign in__.
